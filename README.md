@@ -8,5 +8,5 @@ I'm looking into amending the number of players as well soon.
 
 # To Play
 
-You simply press the button "Roll again" to roll the dice. 
+You simply press the button "Roll again" to roll the dice and the game will tell you the winner. 
 
