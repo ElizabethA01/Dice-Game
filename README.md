@@ -17,7 +17,7 @@
 
 ## General Information
 - The purpose of the project was to develop my skills building a game from scratch and using the coding languages JS specifically DOM, HTML and CSS as part of the course. 
-- I undertook the project as part of a course I undertook, however I improved it by adding a button that refreshes a game. 
+- I undertook the project as part of a course I undertook, however I developed the project further by adding a button that refreshes the game. 
 
 
 ## Technologies Used
@@ -52,11 +52,11 @@ Room for improvement:
 
 
 To do:
-- Add play again button (complete)
+- Add play again button (completed)
 
 
 ## My Thoughts
-I really enjoyed creating the dice game, as I enjoy gaming. It was enjoyable to build the game from scratch and learning how to code in the Web Development course. For this project, I learnt how to use the API for HTML documents called Document Object Model (DOM) to create a website. 
+I really enjoyed creating the dice game, as I enjoy gaming. It was enjoyable to build the game from scratch and learning how to code in the Web Development course. For this project, I learnt how to use the API for HTML documents called Document Object Model (DOM) to create a website and to reference a JS function in HTML file. 
 
 
 ## Acknowledgements
