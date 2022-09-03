@@ -1,6 +1,6 @@
 # Dice-Game
 
-> I created a simple dice game where the 2 dices are rolled and it tells you the winner. 
+> A dice game where the 2 dices are randomly rolled and the computer indicates the winner. 
 > Live demo 
 
 ## Table of Contents
@@ -11,6 +11,7 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [My Thoughts](#my-thoughts)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -29,8 +30,17 @@
 - Simple game that only requires user to press roll.
 
 
+## Setup
+To set up the local environment, clone the repository. 
+
+Clone the repository using the command line using HTTPS
+- Paste this command in the command line: $ git clone https://github.com/ElizabethA01/Dice-Game.git or clone in VS code. 
+- Right click index.html and select open in default broswer (preferably Google Chrome).
+
+
 ## Usage
 The user chooses a dice, then clicks the button 'roll again'. The computer then tells you the winner.
+
 
 ## Project Status
 Project is: _completed_
@@ -46,7 +56,7 @@ To do:
 
 
 ## My Thoughts
-I really enjoyed creating the dice game, as I enjoy gaming. It was enjoyable to build the game from scratch and learning how to code in the Web Development course.
+I really enjoyed creating the dice game, as I enjoy gaming. It was enjoyable to build the game from scratch and learning how to code in the Web Development course. For this project, I learnt how to use the API for HTML documents called Document Object Model (DOM) to create a website. 
 
 
 ## Acknowledgements
