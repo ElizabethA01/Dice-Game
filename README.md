@@ -60,4 +60,4 @@ I really enjoyed creating the dice game, as I enjoy gaming. It was enjoyable to 
 
 
 ## Acknowledgements
-- This project was based on [The Complete 2022 Web Development Bootcamp] https://www.udemy.com/course/the-complete-web-development-bootcamp/
+- This project was inspired by [The Complete 2022 Web Development Bootcamp] https://www.udemy.com/course/the-complete-web-development-bootcamp/
