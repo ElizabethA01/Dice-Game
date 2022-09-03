@@ -41,6 +41,8 @@ Clone the repository using the command line using HTTPS
 ## Usage
 The user chooses a dice, then clicks the button 'roll again'. The computer then tells you the winner.
 
+![image](https://user-images.githubusercontent.com/91877366/188281668-0a3ac4f8-58d6-4e82-9185-0bf477770ff0.png)
+
 
 ## Project Status
 Project is: _completed_
